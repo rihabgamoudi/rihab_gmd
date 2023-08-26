@@ -100,5 +100,7 @@
   },
   "cli": {
     "analytics": "00df044e-5c0e-447d-81e3-05a3b1b61585"
-  }
+    
+  },
+  "defaultProject":"cv"
 }
